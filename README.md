@@ -13,9 +13,9 @@ This is a responsive business portfolio website created from a PSD design file. 
 
 ## 🖼️ **Screenshots**
 
-<img src="./screenshots/image1.png" alt="Image 1" width="300" height="400" /> 
-<img src="./screenshots/image2.png" alt="Image 2" width="300" height="240" />
-<img src="./screenshots/image3.png" alt="Image 2" width="300" height="240" />
+<img src="./screenshots/image1.png" alt="Image 1" height="400" /> 
+<img src="./screenshots/image2.png" alt="Image 2" height="240" />
+<img src="./screenshots/image3.png" alt="Image 2" height="240" />
 
 
 ## 🔧 **Technologies Used**
